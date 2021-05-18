@@ -14,4 +14,4 @@ Após concluir o desafio, além de ter mandado o código para o GitHub, fazer um
 Feito com 💜 por Rocketseat 👋 Participe da nossa [comunidade aberta!](https://discord.gg/pUU3CG4Z)
 
 
-![Captura de Tela 2021-05-18 às 11 45 06](https://user-images.githubusercontent.com/53273641/118674391-22365a00-b7d0-11eb-999c-70f92ff45e78.png)
+<img src="https://user-images.githubusercontent.com/53273641/118674391-22365a00-b7d0-11eb-999c-70f92ff45e78.png" width="350" height="700">
