@@ -1,16 +1,14 @@
-# notes
+# Desafio 02 - Customizando aplicação
 
-A new Flutter project.
+# 💻 Sobre o desafio
 
-## Getting Started
+Nesse desafio você deverá trocar o `FloatingActionButton` (FAB) por outro botão para chamar a tela de criar notas. Você pode fazer também outras customizações como mudar a posição do botão por exemplo.
 
-This project is a starting point for a Flutter application.
+# 📅 Entrega
 
-A few resources to get you started if this is your first Flutter project:
+Esse desafio deve ser entregue a partir da plataforma da Rocketseat. 
+Para isso, crie um repositório no seu GitHub e envie suas alterações para ele. Em seguida envie o link desse repositório no campo indicado dentro da plataforma da Rocketseat. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Após concluir o desafio, além de ter mandado o código para o GitHub, fazer um post no LinkedIn é uma boa forma de demonstrar seus conhecimentos e esforços para evoluir na sua carreira para oportunidades futuras.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feito com 💜 por Rocketseat 👋 Participe da nossa [comunidade aberta!](https://discord.gg/pUU3CG4Z)

@@ -62,7 +62,7 @@ class _HomePageState extends State<HomePage> {
                   },
                 );
               },
-              child: Text("Submit"),
+              child: Text("Adicionar"),
             )
           ],
         ),
